@@ -9,7 +9,7 @@ This program is provided AS IS and provides no warrenty.  Please use responsibly
 It utilizes GPL v. 3
 
 
-##What I found:
+## What I found:
 The more iterations, the longer it takes but the more accurate is is.
 
 | Iterations    |Pi approximately|
