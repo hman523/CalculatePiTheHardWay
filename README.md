@@ -20,3 +20,10 @@ The more iterations, the longer it takes but the more accurate is is.
 |     100       |        3.30    |
 |     10000     |        3.1414  |
 |     1000000   |        3.14146 |
+
+
+## Efficiency
+It was found this program calculates in linear time (O(n)).  
+Here is the proof of that:
+
+![Alt text](/calculatePiTheHardWay10000iter.png "10000Iterations")
